@@ -1,0 +1,50 @@
+.gradient {
+    margin: 0 auto;
+    display: block;
+    position: absolute;
+    left: 45%;
+    top: 50%;
+    justify-content: center;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    background: linear-gradient(to left, #ffcc00, #1100ff, #ff0000);
+    }
+.square {
+    margin: 0 auto;
+    display: block;
+    position: absolute;
+        border: solid 10px rgb(255, 255, 255);
+        width: 50px;
+        height: 50px;
+        border-radius: 20px;
+        left: 49%;
+        top: 54%;
+      }
+.big {
+    width: 130px;
+    height: 130px;
+}
+.kryg {
+    margin: 0 auto;
+    width: 60px;
+      height: 60px;
+      -webkit-border-radius: 25px;
+      -moz-border-radius: 25px;
+      border-radius: 25px;
+      background: rgb(255, 255, 255); 
+      display: block;
+      position: absolute;
+      top: 60%;
+      left: 56%;
+}
+.kryg2 {
+    margin: 0 auto;
+   background-color: #ffffff;
+    border-radius: 50%;
+    width: 25px;
+    height: 25px; 
+    position: absolute;
+    top: 57%;
+    left: 67%;
+} 
